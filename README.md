@@ -61,3 +61,12 @@ Usage
 Use certbot as usual but specify `--authenticator certbot-pdns:auth`:
 
 `certbot --agree-tos --text --renew-by-default --authenticator certbot-pdns:auth certonly -d example.com -d www.example.com`
+
+License
+--------
+
+Copyright (c) 2019 [DT Pan-Net s.r.o](https://github.com/pan-net-security)
+
+Copyright (c) 2019 Certbot Project
+
+Copyright (c) 2018 [Robin Thoni](https://github.com/robin-thoni)
